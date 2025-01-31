@@ -1,0 +1,6 @@
+- {{renderer:tocgen2,[[page name]],auto,1,h}}
+-
+- # 标题1
+- # #标题2
+-
+-
