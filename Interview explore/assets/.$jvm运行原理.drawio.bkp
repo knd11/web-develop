@@ -259,6 +259,13 @@
         <mxCell id="LcULkPn42jwBy9Kqas8P-33" value="老年代&lt;div&gt;2GB&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="2440" y="620" width="140" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="LcULkPn42jwBy9Kqas8P-34" value="c" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="2180" y="470" as="sourcePoint" />
+            <mxPoint x="2260" y="470" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
