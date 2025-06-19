@@ -1,0 +1,3 @@
+{:default-config
+ {:ui/custom-css? true
+  :ui/wide-mode? true}} ; 添加此行启用全宽模式

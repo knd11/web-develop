@@ -1,0 +1,17 @@
+#left-sidebar, #right-sidebar {
+  display: none !important;
+}
+
+#main-content-container {
+  left: 0 !important;
+  right: 0 !important;
+}
+/* PDF 阅读器全宽 */
+.pdf-viewer {
+  width: 100vw !important;
+  left: 0 !important;
+}
+/* Mermaid 等图表全宽 */
+.mermaid, .flowchart {
+  width: 100% !important;
+}

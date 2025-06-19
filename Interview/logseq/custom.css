@@ -1,0 +1,14 @@
+/* 全宽内容区 */
+#main-content-container {
+  max-width: none !important;
+}
+
+/* 全宽页面 */
+.main-container {
+  padding: 0 5% !important;
+}
+
+/* 全宽编辑区 */
+#app-container .editor-wrapper {
+  max-width: none !important;
+}
